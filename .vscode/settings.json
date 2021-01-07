@@ -1,0 +1,5 @@
+{
+    "tailwindCSS.colorDecorators": "on",
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.experimental.showPixelValues": true
+}
